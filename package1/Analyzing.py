@@ -9,6 +9,8 @@ def analyze(df_complete):
     x = df_complete['number of billionaires']
     n = df_complete['country']
     fig, ax = plt.subplots()
+    plt.xlabel('Number of billionaires')
+    plt.ylabel('% from world population')
     plt.figure(figsize=(890,200))
     ax.scatter(x, y)
     for i, txt in enumerate(n):
