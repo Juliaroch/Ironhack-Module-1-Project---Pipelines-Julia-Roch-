@@ -15,4 +15,4 @@ def analyze(df_complete):
     ax.scatter(x, y)
     for i, txt in enumerate(n):
         ax.annotate(txt, (x[i], y[i]))
-    return fig.savefig('/Users/Julia/labs/Ironhack-Module-1-Project---Pipelines-Julia-Roch-/data/results/scatter-plot-result.png')  
+    return fig.savefig('../data/results/scatter-plot-result.png')  

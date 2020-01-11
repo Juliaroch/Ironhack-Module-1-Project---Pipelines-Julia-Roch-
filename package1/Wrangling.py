@@ -30,5 +30,5 @@ def wrangle(engine):
     df_merged = df_merged.groupby(['country']).agg({'name': ['count']}).reset_index()
     df_merged = df_merged.drop(df_merged.index[31])
     df_merged = df_merged.reset_index(drop=True)
-    processed_data = df_merged.to_csv('/Users/Julia/labs/Ironhack-Module-1-Project---Pipelines-Julia-Roch-/data/processed/processed_data.csv', index=False)
+    processed_data = df_merged.to_csv('../data/processed/processed_data.csv', index=False)
     return processed_data

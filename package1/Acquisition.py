@@ -5,6 +5,6 @@ import sqlalchemy
 from sqlalchemy import create_engine
 
 def acquire():
-    sqlitedb_path = '/Users/Julia/labs/Ironhack-Module-1-Project---Pipelines-Julia-Roch-/data/raw/juliarochflores.db'
+    sqlitedb_path = '../data/raw/juliarochflores.db'
     engine = create_engine(f'sqlite:///{sqlitedb_path}')
     return engine
