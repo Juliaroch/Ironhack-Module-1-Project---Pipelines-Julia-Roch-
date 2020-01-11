@@ -1,8 +1,8 @@
 #Main.py
-from Acquisition import acquire
-from Wrangling import wrangle
-from Enrichment import enrich
-from Analyzing import analyze
+from acquisition import acquire
+from wrangling import wrangle
+from enrichment import enrich
+from analyzing import analyze
 
 def main():
     data = acquire()
