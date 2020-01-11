@@ -1,25 +1,25 @@
 Rank,country,Population,Date,Source,% of World Population
-1,China,1400825000,10 Jan 2020,National population clock[3],0.180516
-2,India,1357165850,10 Jan 2020,National population clock[4],0.17489
-3,United States,330563468,10 Jan 2020,National population clock[5],0.042598
+1,China,1400839520,11 Jan 2020,National population clock[3],0.180518
+2,India,1357207300,11 Jan 2020,National population clock[4],0.174895
+3,United States,330569133,11 Jan 2020,National population clock[5],0.042598
 4,Indonesia,266911900,1 Jul 2019,National annual projection[6],0.034395
-5,Pakistan,218231000,10 Jan 2020,National population clock[7],0.028122
-6,Brazil,210964296,10 Jan 2020,National population clock[8],0.027186
+5,Pakistan,218242000,11 Jan 2020,National population clock[7],0.028124
+6,Brazil,210968643,11 Jan 2020,National population clock[8],0.027186
 7,Nigeria,200963599,1 Jul 2019,UN Projection[2],0.025897
-8,Bangladesh,167904962,10 Jan 2020,National population clock[9],0.021637
+8,Bangladesh,167910588,11 Jan 2020,National population clock[9],0.021638
 9,Russia,146780720,1 Jan 2019,National estimate[10],0.018915
 10,Mexico,127191826,1 Jan 2020,National annual projection[11],0.01639
 11,Japan,126150000,1 Dec 2019,Monthly provisional estimate[12],0.016256
-12,Philippines,108800280,10 Jan 2020,National population clock[13],0.01402
-13,Egypt,99888903,10 Jan 2020,National population clock[14],0.012872
+12,Philippines,108805120,11 Jan 2020,National population clock[13],0.014021
+13,Egypt,99894008,11 Jan 2020,National population clock[14],0.012873
 14,Ethiopia,98665000,1 Jul 2019,National annual projection[15],0.012714
 15,Vietnam,96208984,1 Apr 2019,Preliminary 2019 census result[16],0.012398
 16,DR Congo,86790567,1 Jul 2019,UN Projection[2],0.011184
 17,Germany,83149300,30 Sep 2019,National estimate[17],0.010715
-18,Iran,83104623,10 Jan 2020,National population clock[18],0.010709
+18,Iran,83107351,11 Jan 2020,National population clock[18],0.01071
 19,Turkey,82003882,31 Dec 2018,National annual estimate[19],0.010567
 20,France,67088000,1 Dec 2019,Monthly National estimate[20],0.008645
-21,Thailand,66456442,10 Jan 2020,National population clock[21],0.008564
+21,Thailand,66456830,11 Jan 2020,National population clock[21],0.008564
 22,United Kingdom,66435600,30 Jun 2018,National annual estimate[22],0.008561
 23,Italy,60252824,31 Aug 2019,Monthly National estimate[23],0.007764
 24,South Africa,58775022,1 Jul 2019,National annual estimate[24],0.007574
@@ -31,16 +31,16 @@ Rank,country,Population,Date,Source,% of World Population
 30,Spain,47100396,1 Jul 2019,National estimate[29],0.00607
 31,Argentina,44938712,1 Jul 2019,National annual projection[30],0.005791
 32,Algeria,42200000,1 Jan 2018,National annual projection[31],0.005438
-33,Sudan,42174435,10 Jan 2020,National population clock[32],0.005435
+33,Sudan,42177070,11 Jan 2020,National population clock[32],0.005435
 34,Ukraine,41940724,1 Nov 2019,Monthly National estimate[33],0.005405
 35,Uganda,40006700,1 Jul 2019,National annual projection[34],0.005155
 36,Iraq,39127900,1 Jul 2019,National annual projection[35],0.005042
 37,Poland,38386000,30 Jun 2019,National estimate[36],0.004947
-38,Canada,37882008,10 Jan 2020,National population clock[37],0.004882
-39,Morocco,35776666,10 Jan 2020,National population clock[38],0.00461
+38,Canada,37883178,11 Jan 2020,National population clock[37],0.004882
+39,Morocco,35777630,11 Jan 2020,National population clock[38],0.00461
 40,Saudi Arabia,34218169,1 Jul 2019,National estimate[39],0.004409
-41,Uzbekistan,33949433,10 Jan 2020,National population clock[40],0.004375
-42,Malaysia,32718210,10 Jan 2020,National population clock[41],0.004216
+41,Uzbekistan,33951293,11 Jan 2020,National population clock[40],0.004375
+42,Malaysia,32719210,11 Jan 2020,National population clock[41],0.004216
 43,Afghanistan,32225560,1 Jul 2019,National annual estimate[42],0.004153
 44,Venezuela,32219521,30 Jun 2019,National annual projection[43],0.004152
 45,Peru,32131400,30 Jun 2019,National annual projection[44],0.004141
@@ -52,7 +52,7 @@ Rank,country,Population,Date,Source,% of World Population
 51,Cameroon,25876000,1 Jul 2019,UN projection[2],0.003334
 52,Ivory Coast,25823071,1 Jul 2019,National projection[49],0.003328
 53,Madagascar,25680342,18 May 2018,Provisional 2018 census result[50],0.003309
-54,Australia,25579966,10 Jan 2020,National population clock[51],0.003296
+54,Australia,25580995,11 Jan 2020,National population clock[51],0.003296
 55,North Korea,25450000,1 Jul 2019,National annual projection[52],0.00328
 –,Taiwan,23598776,30 Nov 2019,Monthly National estimate[53],0.003041
 56,Niger,22314743,1 Jul 2019,National annual projection[54],0.002876
@@ -61,11 +61,11 @@ Rank,country,Population,Date,Source,% of World Population
 59,Mali,19973000,1 Jul 2019,National annual projection[57],0.002574
 60,Romania,19405156,1 Jan 2019,National annual estimate[58],0.002501
 61,Chile,19107216,1 Jul 2019,National annual projection[59],0.002462
-62,Kazakhstan,18623344,10 Jan 2020,National population clock[60],0.0024
+62,Kazakhstan,18623960,11 Jan 2020,National population clock[60],0.0024
 63,Malawi,17563749,3 Sep 2018,Preliminary 2018 census result[61],0.002263
-64,Ecuador,17400616,10 Jan 2020,National population clock[62],0.002242
+64,Ecuador,17401292,11 Jan 2020,National population clock[62],0.002242
 65,Zambia,17381168,1 Jul 2019,National annual projection[63],0.00224
-66,Netherlands,17371008,10 Jan 2020,National population clock[64],0.002238
+66,Netherlands,17371228,11 Jan 2020,National population clock[64],0.002239
 67,Syria,17070135,1 Jul 2019,UN projection[2],0.0022
 68,Guatemala,16604026,1 Jul 2019,National annual projection[65],0.00214
 69,Senegal,16209125,1 Jul 2019,National annual projection[66],0.002089
@@ -85,7 +85,7 @@ Rank,country,Population,Date,Source,% of World Population
 83,Burundi,10953317,1 Jul 2019,National annual projection[79],0.001411
 84,Greece,10724599,1 Jan 2019,National estimate[80],0.001382
 85,Czech Republic,10681161,30 Sep 2019,National quarterly estimate[81],0.001376
-86,Jordan,10589304,10 Jan 2020,National population clock[82],0.001365
+86,Jordan,10590028,11 Jan 2020,National population clock[82],0.001365
 87,Dominican Republic,10358320,1 Jul 2019,National projection[83],0.001335
 88,Sweden,10319601,31 Oct 2019,National monthly estimate[84],0.00133
 89,Portugal,10276617,31 Dec 2018,National annual estimate[85],0.001324
@@ -94,7 +94,7 @@ Rank,country,Population,Date,Source,% of World Population
 92,United Arab Emirates,9770529,1 Jul 2019,UN projection[2],0.001259
 93,Belarus,9454800,1 Oct 2019,National quarterly estimate[88],0.001218
 94,Honduras,9158345,1 Jul 2019,National annual projection[89],0.00118
-95,Israel,9143060,10 Jan 2020,National population clock[90],0.001178
+95,Israel,9143520,11 Jan 2020,National population clock[90],0.001178
 96,Tajikistan,9127000,1 Jan 2019,National estimate[91],0.001176
 97,Austria,8898457,1 Oct 2019,Quarterly provisional figure[92],0.001147
 98,Switzerland,8586550,30 Sep 2019,National provisional figure[93],0.001106
@@ -121,7 +121,7 @@ Rank,country,Population,Date,Source,% of World Population
 118,Norway,5356789,1 Oct 2019,National quarterly estimate[110],0.00069
 119,Costa Rica,5058007,30 Jun 2019,National annual projection[111],0.000652
 –,Palestine,4976684,1 Jul 2019,National annual projection[112],0.000641
-120,New Zealand,4952739,10 Jan 2020,National population clock[113],0.000638
+120,New Zealand,4952923,11 Jan 2020,National population clock[113],0.000638
 121,Ireland,4921500,1 Apr 2019,National estimate[114],0.000634
 122,Oman,4674926,21 Nov 2019,National estimate[115],0.000602
 123,Liberia,4475353,1 Jul 2019,National projection[116],0.000577
@@ -133,7 +133,7 @@ Rank,country,Population,Date,Source,% of World Population
 129,Uruguay,3518552,30 Jun 2019,National annual projection[122],0.000453
 130,Eritrea,3497117,1 Jul 2019,UN projection[2],0.000451
 131,Bosnia and Herzegovina,3301000,1 Jul 2019,UN projection[2],0.000425
-132,Mongolia,3296987,10 Jan 2020,National population clock[123],0.000425
+132,Mongolia,3297151,11 Jan 2020,National population clock[123],0.000425
 –,Puerto Rico ,3195153,1 Jul 2018,National estimate[124],0.000412
 133,Armenia,2957500,30 Sep 2019,National quarterly estimate[125],0.000381
 134,Albania,2862427,1 Jan 2019,National annual estimate[126],0.000369
@@ -239,4 +239,4 @@ Rank,country,Population,Date,Source,% of World Population
 –,Vatican City,799,1 Jul 2019,UN projection[2],0.0
 –,Cocos  Islands ,538,30 Jun 2018,National estimate[197],0.0
 –,Pitcairn Islands ,50,1 Jan 2019,National estimate[198],0.0
-,World,7760362000,10 Jan 2020,UN projection[199],1.00003
+,World,7760594000,11 Jan 2020,UN projection[199],1.00006
